@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Personal Bucket List</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <h1>My Personal Bucket List</h1>
+    <p>Things I want to achieve in my lifetime</p>
+  </header>
+
+  <!-- Main Content Section -->
+  <main>
+    <ul>
+      <li><i class="icon-check"></i> Skydiving</li>
+      <li><i class="icon-star"></i> Travel to 7 wonders in the world</li>
+      <li><i class="icon-check"></i> Learn to play the guitar</li>
+      <li><i class="icon-check"></i> Write a novel</li>
+      <li><i class="icon-check"></i> Climb a mountain</li>
+      <li><i class="icon-check"></i> Attend Ed Sheeran's live concert</li>
+      <li><i class="icon-check"></i> Learn to play violin</li>
+    </ul>
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2025 Bucket List Project</p>
+    <p><a href="#">Privacy Policy</a> | <a href="#">Contact Us</a></p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Personal Bucket List</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <h1>My Personal Bucket List</h1>
+    <p>Things I want to achieve in my lifetime</p>
+  </header>
+
+  <!-- Main Content Section -->
+  <main>
+    <ul>
+      <li><i class="icon-check"></i> Skydiving</li>
+      <li><i class="icon-star"></i> Travel to 7 wonders in the world</li>
+      <li><i class="icon-check"></i> Learn to play the guitar</li>
+      <li><i class="icon-check"></i> Write a novel</li>
+      <li><i class="icon-check"></i> Climb a mountain</li>
+      <li><i class="icon-check"></i> Attend Ed Sheeran's live concert</li>
+      <li><i class="icon-check"></i> Learn to play violin</li>
+    </ul>
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2025 Bucket List Project</p>
+    <p><a href="#">Privacy Policy</a> | <a href="#">Contact Us</a></p>
+  </footer>
+</body>
+</html>
